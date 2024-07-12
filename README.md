@@ -1,5 +1,7 @@
 # node-ts-multiplication-app
 
-`
-npm run dev
-`
+`npm run dev`
+
+
+#### VSCODE
+`Debug: Debug npm Script`
